@@ -1,5 +1,5 @@
 # Facebook-Lite
-Building a web application with a database (Mysql) backend 
+Building a web application with a database (Oracle) backend 
 
 # Assessment Details
 Let’s assume that a decision has been made to develop a light version (called Facebook-Lite) of
